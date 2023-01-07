@@ -991,3 +991,4 @@ Fixed memory management issue - v3.9.6
 Updated styling and themes - 837
 Updated version number
 Code cleanup and formatting - build 199
+Updated configuration settings - update 23
