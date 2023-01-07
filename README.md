@@ -992,3 +992,4 @@ Updated styling and themes - 837
 Updated version number
 Code cleanup and formatting - build 199
 Updated configuration settings - update 23
+Fixed memory management issue - update 3
