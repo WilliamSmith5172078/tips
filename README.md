@@ -1258,3 +1258,4 @@ Code cleanup and formatting - v4.6.8
 Refactored code for better maintainability - 787
 Updated README with new instructions - v6.6.4
 Fixed memory management issue - build 223
+Fixed memory management issue - v4.3.3
