@@ -1261,3 +1261,4 @@ Fixed memory management issue - build 223
 Fixed memory management issue - v4.3.3
 Added proper error handling - v10.0.0
 Fixed typo in documentation - update 40
+Fixed typo in documentation
