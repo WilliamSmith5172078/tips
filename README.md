@@ -359,3 +359,4 @@ Code cleanup and formatting - build 895
 Improved user interface design - build 324
 Optimized algorithm for better efficiency
 Refactored code for better maintainability - build 533
+Added new feature for better user experience - v2.5.8
