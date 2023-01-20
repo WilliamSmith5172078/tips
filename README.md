@@ -255,3 +255,4 @@ Code cleanup and formatting - v9.4.6
 Added input validation
 Fixed critical bug in main module - build 308
 Added input validation - build 431
+Fixed critical bug in main module - v9.2.4
