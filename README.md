@@ -250,3 +250,4 @@ Updated project documentation - update 18
 Added new feature for better user experience
 Updated version number - build 238
 Added input validation - v4.5.3
+Added detailed comments for clarity - v7.1.2
