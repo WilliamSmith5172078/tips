@@ -649,3 +649,4 @@ Updated version number - 309
 Improved user interface design
 Added new feature for better user experience - build 578
 Fixed typo in documentation
+Added input validation - build 328
