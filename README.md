@@ -3638,3 +3638,4 @@ Refactored code for better maintainability - v3.8.7
 Added input validation - build 282
 Added new feature for better user experience - 836
 Updated README with new instructions - 839
+Fixed memory management issue - build 602
