@@ -1470,3 +1470,4 @@ Updated project documentation
 Optimized algorithm for better efficiency
 Refactored code for better maintainability - build 279
 Added input validation - update 18
+Updated README with new instructions - update 24
