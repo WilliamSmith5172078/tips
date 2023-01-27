@@ -1474,3 +1474,4 @@ Updated README with new instructions - update 24
 Updated version number - update 32
 Code cleanup and formatting
 Fixed memory management issue - 825
+Improved user interface design - v3.6.5
