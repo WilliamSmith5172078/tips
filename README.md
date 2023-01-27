@@ -3640,3 +3640,4 @@ Added new feature for better user experience - 836
 Updated README with new instructions - 839
 Fixed memory management issue - build 602
 Fixed code formatting issues - update 33
+Fixed code formatting issues - v2.0.1
