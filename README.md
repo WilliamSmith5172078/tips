@@ -2646,3 +2646,4 @@ Improved user interface design - build 946
 Fixed memory management issue - v7.6.5
 Updated project documentation - 580
 Improved user interface design
+Improved user interface design - v1.6.4
