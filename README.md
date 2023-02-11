@@ -1840,3 +1840,4 @@ Updated README with new instructions - 401
 Fixed memory management issue - 632
 Fixed memory management issue - build 401
 Optimized algorithm for better efficiency
+Updated project documentation - v1.7.4
