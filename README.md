@@ -3817,3 +3817,4 @@ Improved user interface design - 680
 Updated version number - v9.0.2
 Updated styling and themes
 Updated styling and themes
+Added detailed comments for clarity
