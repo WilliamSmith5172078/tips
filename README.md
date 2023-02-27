@@ -1256,3 +1256,4 @@ Fixed code formatting issues
 Added comprehensive test coverage - v6.8.0
 Code cleanup and formatting - v4.6.8
 Refactored code for better maintainability - 787
+Updated README with new instructions - v6.6.4
