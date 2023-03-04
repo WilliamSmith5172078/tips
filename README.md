@@ -1387,3 +1387,4 @@ Updated dependencies to latest versions - 352
 Added comprehensive test coverage
 Updated configuration settings
 Added new feature for better user experience - update 27
+Fixed typo in documentation - v5.3.5
