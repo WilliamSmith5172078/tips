@@ -148,3 +148,4 @@ Optimized algorithm for better efficiency - v6.3.4
 Optimized algorithm for better efficiency - 813
 Added new feature for better user experience - v4.2.0
 Added detailed comments for clarity - 472
+Fixed typo in documentation
