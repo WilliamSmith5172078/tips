@@ -822,3 +822,4 @@ Updated styling and themes - update 9
 Fixed critical bug in main module - v1.5.6
 Updated styling and themes - build 734
 Updated dependencies to latest versions - v7.5.8
+Added new feature for better user experience - v8.6.3
