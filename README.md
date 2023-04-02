@@ -1949,3 +1949,4 @@ Added new feature for better user experience - v4.5.7
 Updated project documentation - build 426
 Updated configuration settings - 117
 Refactored code for better maintainability - 962
+Refactored code for better maintainability - v9.0.0
