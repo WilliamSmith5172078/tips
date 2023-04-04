@@ -2888,3 +2888,4 @@ Fixed typo in documentation
 Added new feature for better user experience - build 301
 Updated project documentation - update 32
 Optimized algorithm for better efficiency - v5.0.6
+Added proper error handling - v7.1.6
