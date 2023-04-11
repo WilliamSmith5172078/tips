@@ -2933,3 +2933,4 @@ Added detailed comments for clarity - v9.5.4
 Added comprehensive test coverage - v6.0.3
 Optimized algorithm for better efficiency - 283
 Refactored code for better maintainability - update 48
+Updated README with new instructions - v10.7.7
