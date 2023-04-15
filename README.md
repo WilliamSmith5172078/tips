@@ -1047,3 +1047,4 @@ Refactored code for better maintainability - v10.9.5
 Updated README with new instructions
 Added input validation
 Optimized algorithm for better efficiency - build 287
+Updated README with new instructions - build 636
