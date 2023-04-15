@@ -1040,3 +1040,4 @@ Improved user interface design - build 870
 Updated version number - 475
 Improved performance optimization
 Fixed code formatting issues - update 21
+Fixed code formatting issues - v10.4.7
