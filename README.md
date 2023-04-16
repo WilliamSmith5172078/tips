@@ -3858,3 +3858,4 @@ Updated styling and themes
 Updated dependencies to latest versions - v1.4.0
 Fixed typo in documentation - 893
 Fixed typo in documentation - 287
+Improved performance optimization - 598
