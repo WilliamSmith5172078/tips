@@ -3608,3 +3608,4 @@ Optimized algorithm for better efficiency - 732
 Fixed typo in documentation - v3.9.4
 Added new feature for better user experience - build 217
 Added comprehensive test coverage - update 32
+Updated README with new instructions
