@@ -2612,3 +2612,4 @@ Updated project documentation
 Added input validation - 789
 Improved user interface design - v1.7.4
 Improved user interface design - v1.8.6
+Fixed typo in documentation - 395
