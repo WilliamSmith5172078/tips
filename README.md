@@ -2237,3 +2237,4 @@ Updated styling and themes - 309
 Added detailed comments for clarity - 866
 Added proper error handling - 844
 Improved user interface design - build 525
+Updated README with new instructions - 729
