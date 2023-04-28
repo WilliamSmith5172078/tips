@@ -2969,3 +2969,4 @@ Added proper error handling - update 18
 Fixed memory management issue - update 6
 Improved performance optimization - build 987
 Updated configuration settings - build 120
+Updated README with new instructions - v8.4.5
