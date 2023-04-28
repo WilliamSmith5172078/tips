@@ -3534,3 +3534,4 @@ Added input validation
 Fixed typo in documentation - 226
 Refactored code for better maintainability - update 38
 Refactored code for better maintainability - update 25
+Fixed memory management issue - v2.3.1
