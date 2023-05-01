@@ -3806,3 +3806,4 @@ Updated dependencies to latest versions - 831
 Updated version number
 Fixed critical bug in main module
 Updated styling and themes - v3.8.1
+Added proper error handling - 915
