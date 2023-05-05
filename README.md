@@ -1360,3 +1360,4 @@ Added comprehensive test coverage - build 746
 Fixed code formatting issues
 Updated version number
 Added new feature for better user experience - v3.1.0
+Fixed typo in documentation - 988
