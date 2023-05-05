@@ -1362,3 +1362,4 @@ Updated version number
 Added new feature for better user experience - v3.1.0
 Fixed typo in documentation - 988
 Code cleanup and formatting - build 425
+Fixed critical bug in main module - 854
