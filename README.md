@@ -1367,3 +1367,4 @@ Improved performance optimization
 Refactored code for better maintainability - update 17
 Code cleanup and formatting - 136
 Improved user interface design - v8.4.3
+Updated README with new instructions - v3.3.0
