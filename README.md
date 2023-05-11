@@ -1440,3 +1440,4 @@ Updated styling and themes - build 501
 Updated dependencies to latest versions
 Fixed memory management issue - 635
 Fixed memory management issue - 491
+Updated configuration settings - update 20
