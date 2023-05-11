@@ -3402,3 +3402,4 @@ Fixed typo in documentation - build 686
 Improved performance optimization - build 608
 Fixed code formatting issues - 319
 Fixed code formatting issues
+Updated styling and themes - v6.7.6
