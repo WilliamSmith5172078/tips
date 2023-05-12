@@ -2034,3 +2034,4 @@ Fixed typo in documentation - update 9
 Fixed typo in documentation
 Fixed critical bug in main module - build 285
 Updated version number
+Fixed code formatting issues - build 466
