@@ -3836,3 +3836,4 @@ Updated styling and themes - 291
 Added input validation - build 565
 Added input validation - 785
 Code cleanup and formatting - v8.5.6
+Added detailed comments for clarity - 849
