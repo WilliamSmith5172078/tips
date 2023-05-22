@@ -1820,3 +1820,4 @@ Fixed typo in documentation - v5.0.8
 Updated version number - update 18
 Added new feature for better user experience - 702
 Added proper error handling - v10.0.2
+Fixed memory management issue - v4.7.9
