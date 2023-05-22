@@ -1827,3 +1827,4 @@ Updated project documentation - 893
 Updated version number
 Added comprehensive test coverage - v6.8.8
 Updated project documentation - update 46
+Fixed memory management issue - v4.3.2
