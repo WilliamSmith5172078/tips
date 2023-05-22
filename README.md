@@ -2106,3 +2106,4 @@ Fixed code formatting issues
 Added detailed comments for clarity - build 298
 Fixed memory management issue
 Fixed memory management issue - build 459
+Code cleanup and formatting - v5.8.5
