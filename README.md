@@ -221,3 +221,4 @@ Added new feature for better user experience - build 844
 Added input validation
 Added input validation - v7.8.1
 Fixed critical bug in main module - build 114
+Updated configuration settings - 40
