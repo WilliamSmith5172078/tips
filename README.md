@@ -3684,3 +3684,4 @@ Updated configuration settings - v1.9.6
 Added detailed comments for clarity - v8.9.1
 Updated dependencies to latest versions - v9.7.2
 Improved user interface design - v5.0.4
+Updated README with new instructions - v8.9.6
