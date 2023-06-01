@@ -3681,3 +3681,4 @@ Refactored code for better maintainability - 111
 Updated version number - update 45
 Updated configuration settings - build 883
 Updated configuration settings - v1.9.6
+Added detailed comments for clarity - v8.9.1
