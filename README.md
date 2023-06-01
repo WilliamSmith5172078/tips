@@ -3682,3 +3682,4 @@ Updated version number - update 45
 Updated configuration settings - build 883
 Updated configuration settings - v1.9.6
 Added detailed comments for clarity - v8.9.1
+Updated dependencies to latest versions - v9.7.2
