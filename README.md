@@ -3135,3 +3135,4 @@ Fixed typo in documentation - v9.6.5
 Improved performance optimization - update 31
 Updated styling and themes
 Improved performance optimization - v3.2.8
+Updated README with new instructions - 669
