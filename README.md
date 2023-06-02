@@ -59,3 +59,4 @@ Updated README with new instructions
 Added new feature for better user experience - 532
 Fixed typo in documentation - 287
 Updated project documentation - v3.7.1
+Improved user interface design - v10.4.9
