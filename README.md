@@ -65,3 +65,4 @@ Updated dependencies to latest versions
 Improved user interface design - v6.2.1
 Added input validation - update 26
 Updated README with new instructions - update 31
+Fixed memory management issue - v7.7.0
