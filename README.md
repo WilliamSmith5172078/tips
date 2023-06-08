@@ -337,3 +337,4 @@ Fixed critical bug in main module - 394
 Added comprehensive test coverage - build 352
 Code cleanup and formatting - v6.4.2
 Updated project documentation - v4.0.4
+Updated README with new instructions - 490
