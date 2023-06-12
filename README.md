@@ -2955,3 +2955,4 @@ Added input validation - v9.6.1
 Fixed code formatting issues - v1.7.7
 Added comprehensive test coverage
 Refactored code for better maintainability - build 296
+Updated README with new instructions - v9.2.8
