@@ -3093,3 +3093,4 @@ Added new feature for better user experience - 781
 Added detailed comments for clarity - v9.9.1
 Updated configuration settings - update 40
 Fixed typo in documentation
+Fixed typo in documentation - 496
