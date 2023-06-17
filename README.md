@@ -3096,3 +3096,4 @@ Fixed typo in documentation
 Fixed typo in documentation - 496
 Fixed code formatting issues - update 24
 Added comprehensive test coverage
+Updated README with new instructions - v1.3.8
