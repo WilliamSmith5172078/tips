@@ -1191,3 +1191,4 @@ Added new feature for better user experience - update 27
 Fixed typo in documentation - v7.8.8
 Improved user interface design - 147
 Code cleanup and formatting - 251
+Updated styling and themes - 96
