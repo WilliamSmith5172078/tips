@@ -288,3 +288,4 @@ Added proper error handling - 326
 Updated dependencies to latest versions - update 40
 Optimized algorithm for better efficiency - build 463
 Fixed typo in documentation - build 623
+Added proper error handling - v3.1.7
