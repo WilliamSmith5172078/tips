@@ -2039,3 +2039,4 @@ Added detailed comments for clarity
 Code cleanup and formatting - update 50
 Improved performance optimization - build 196
 Fixed typo in documentation - update 33
+Updated README with new instructions - update 26
