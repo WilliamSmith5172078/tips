@@ -2041,3 +2041,4 @@ Improved performance optimization - build 196
 Fixed typo in documentation - update 33
 Updated README with new instructions - update 26
 Updated project documentation - v8.0.5
+Updated configuration settings - v1.4.4
