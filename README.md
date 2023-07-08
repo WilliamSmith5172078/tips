@@ -3980,3 +3980,4 @@ Code cleanup and formatting - v8.4.6
 Fixed critical bug in main module - v7.8.7
 Improved performance optimization
 Fixed typo in documentation
+Fixed memory management issue - v5.7.4
