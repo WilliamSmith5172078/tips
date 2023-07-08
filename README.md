@@ -3985,3 +3985,4 @@ Added input validation - v3.2.4
 Updated styling and themes
 Code cleanup and formatting
 Updated version number - update 22
+Fixed memory management issue - update 17
