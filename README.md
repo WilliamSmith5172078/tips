@@ -3982,3 +3982,4 @@ Improved performance optimization
 Fixed typo in documentation
 Fixed memory management issue - v5.7.4
 Added input validation - v3.2.4
+Updated styling and themes
