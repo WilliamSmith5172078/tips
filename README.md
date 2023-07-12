@@ -39,3 +39,4 @@ Updated styling and themes - build 472
 Updated README with new instructions
 Updated project documentation - build 209
 Code cleanup and formatting - 966
+Updated configuration settings - 572
