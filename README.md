@@ -44,3 +44,4 @@ Improved performance optimization - build 528
 Optimized algorithm for better efficiency - build 978
 Updated dependencies to latest versions - v2.2.9
 Fixed code formatting issues
+Improved performance optimization - v5.8.8
