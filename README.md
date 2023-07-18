@@ -979,3 +979,4 @@ Updated README with new instructions - build 579
 Updated README with new instructions - 335
 Refactored code for better maintainability - 423
 Code cleanup and formatting - update 39
+Updated configuration settings - 140
