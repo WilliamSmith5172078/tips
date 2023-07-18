@@ -987,3 +987,4 @@ Refactored code for better maintainability
 Updated styling and themes
 Added detailed comments for clarity - update 13
 Code cleanup and formatting
+Fixed memory management issue - v3.9.6
