@@ -1138,3 +1138,4 @@ Added proper error handling - v10.3.3
 Updated styling and themes - update 34
 Added new feature for better user experience - 560
 Fixed critical bug in main module - build 681
+Added detailed comments for clarity - v5.8.0
