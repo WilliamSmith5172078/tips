@@ -1142,3 +1142,4 @@ Added detailed comments for clarity - v5.8.0
 Updated dependencies to latest versions - 169
 Updated version number - update 23
 Updated styling and themes - 512
+Added detailed comments for clarity
