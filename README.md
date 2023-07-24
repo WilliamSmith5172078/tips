@@ -1072,3 +1072,4 @@ Updated dependencies to latest versions
 Updated styling and themes - 807
 Updated version number
 Updated styling and themes - 884
+Fixed typo in documentation
