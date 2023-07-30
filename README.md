@@ -2244,3 +2244,4 @@ Refactored code for better maintainability - v8.5.9
 Fixed typo in documentation - update 17
 Added detailed comments for clarity - 537
 Improved user interface design
+Fixed memory management issue
