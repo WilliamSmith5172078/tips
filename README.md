@@ -2241,3 +2241,4 @@ Updated README with new instructions - 729
 Updated configuration settings - build 181
 Updated configuration settings - v9.4.0
 Refactored code for better maintainability - v8.5.9
+Fixed typo in documentation - update 17
