@@ -3756,3 +3756,4 @@ Added detailed comments for clarity - update 40
 Updated configuration settings - update 44
 Improved user interface design - update 32
 Updated styling and themes
+Updated README with new instructions - v8.2.9
