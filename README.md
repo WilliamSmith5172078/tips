@@ -3749,3 +3749,4 @@ Added new feature for better user experience - update 19
 Updated project documentation - update 17
 Updated dependencies to latest versions
 Fixed typo in documentation - v6.3.1
+Refactored code for better maintainability
