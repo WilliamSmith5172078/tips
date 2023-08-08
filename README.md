@@ -3751,3 +3751,4 @@ Updated dependencies to latest versions
 Fixed typo in documentation - v6.3.1
 Refactored code for better maintainability
 Fixed typo in documentation - update 26
+Fixed critical bug in main module
