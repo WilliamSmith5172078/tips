@@ -79,3 +79,4 @@ Updated README with new instructions
 Fixed critical bug in main module - 367
 Updated project documentation
 Improved performance optimization
+Fixed typo in documentation - v2.0.6
