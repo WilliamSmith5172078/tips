@@ -83,3 +83,4 @@ Fixed typo in documentation - v2.0.6
 Improved user interface design - 280
 Updated dependencies to latest versions - v5.9.0
 Updated dependencies to latest versions
+Fixed memory management issue - update 46
