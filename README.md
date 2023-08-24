@@ -790,3 +790,4 @@ Optimized algorithm for better efficiency - v9.3.2
 Added new feature for better user experience - update 10
 Fixed memory management issue - update 25
 Improved user interface design
+Fixed memory management issue - v4.9.7
