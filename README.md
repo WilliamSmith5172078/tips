@@ -792,3 +792,4 @@ Fixed memory management issue - update 25
 Improved user interface design
 Fixed memory management issue - v4.9.7
 Updated project documentation
+Updated README with new instructions - 785
