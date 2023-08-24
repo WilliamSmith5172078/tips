@@ -795,3 +795,4 @@ Updated project documentation
 Updated README with new instructions - 785
 Added comprehensive test coverage - update 1
 Updated project documentation - build 282
+Added proper error handling - v2.3.8
