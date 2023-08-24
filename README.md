@@ -788,3 +788,4 @@ Fixed typo in documentation - update 13
 Added new feature for better user experience - 466
 Optimized algorithm for better efficiency - v9.3.2
 Added new feature for better user experience - update 10
+Fixed memory management issue - update 25
