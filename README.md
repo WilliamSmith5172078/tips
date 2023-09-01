@@ -3673,3 +3673,4 @@ Improved performance optimization
 Updated version number - v4.9.1
 Fixed critical bug in main module - 684
 Fixed typo in documentation - build 151
+Fixed critical bug in main module - v5.0.7
