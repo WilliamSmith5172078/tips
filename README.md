@@ -3927,3 +3927,4 @@ Added new feature for better user experience - update 33
 Improved performance optimization
 Optimized algorithm for better efficiency - v8.1.2
 Updated project documentation
+Updated README with new instructions - v2.4.6
