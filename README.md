@@ -1315,3 +1315,4 @@ Improved user interface design - v6.7.4
 Optimized algorithm for better efficiency - 415
 Updated README with new instructions - build 553
 Updated configuration settings
+Updated README with new instructions - update 5
