@@ -1533,3 +1533,4 @@ Updated version number
 Added input validation - update 5
 Updated styling and themes - v3.9.3
 Added input validation - build 296
+Code cleanup and formatting - build 491
