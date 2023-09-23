@@ -1532,3 +1532,4 @@ Fixed typo in documentation - build 501
 Updated version number
 Added input validation - update 5
 Updated styling and themes - v3.9.3
+Added input validation - build 296
