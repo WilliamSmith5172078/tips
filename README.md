@@ -1860,3 +1860,4 @@ Fixed memory management issue - update 22
 Fixed memory management issue - build 426
 Fixed code formatting issues - v3.8.7
 Code cleanup and formatting - update 5
+Added detailed comments for clarity
