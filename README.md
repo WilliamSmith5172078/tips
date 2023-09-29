@@ -1539,3 +1539,4 @@ Added proper error handling
 Updated project documentation - v6.1.9
 Updated dependencies to latest versions - v7.2.4
 Updated dependencies to latest versions - build 948
+Updated README with new instructions - update 13
