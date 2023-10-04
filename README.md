@@ -340,3 +340,4 @@ Updated project documentation - v4.0.4
 Updated README with new instructions - 490
 Refactored code for better maintainability - v1.2.1
 Fixed typo in documentation - build 267
+Added detailed comments for clarity
