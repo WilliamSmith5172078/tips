@@ -345,3 +345,4 @@ Updated styling and themes - v4.1.0
 Added input validation - build 706
 Updated configuration settings
 Updated styling and themes - build 298
+Fixed critical bug in main module - build 705
