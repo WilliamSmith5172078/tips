@@ -341,3 +341,4 @@ Updated README with new instructions - 490
 Refactored code for better maintainability - v1.2.1
 Fixed typo in documentation - build 267
 Added detailed comments for clarity
+Updated styling and themes - v4.1.0
