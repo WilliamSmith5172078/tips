@@ -1350,3 +1350,4 @@ Fixed memory management issue
 Updated styling and themes - 68
 Optimized algorithm for better efficiency - 955
 Added input validation - v4.4.4
+Added input validation - 766
