@@ -1353,3 +1353,4 @@ Added input validation - v4.4.4
 Added input validation - 766
 Updated project documentation - 442
 Updated project documentation - update 46
+Added proper error handling
