@@ -784,3 +784,4 @@ Added detailed comments for clarity
 Added new feature for better user experience - build 160
 Updated README with new instructions - v8.0.9
 Fixed code formatting issues - build 822
+Fixed typo in documentation - update 13
