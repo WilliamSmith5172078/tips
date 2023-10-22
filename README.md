@@ -3100,3 +3100,4 @@ Updated README with new instructions - v1.3.8
 Improved performance optimization
 Improved performance optimization - 868
 Updated version number
+Improved performance optimization - v1.6.6
