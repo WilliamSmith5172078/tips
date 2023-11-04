@@ -947,3 +947,4 @@ Fixed typo in documentation
 Improved user interface design - update 2
 Code cleanup and formatting - 256
 Fixed memory management issue - v7.7.1
+Fixed memory management issue - update 10
