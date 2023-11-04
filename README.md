@@ -946,3 +946,4 @@ Fixed typo in documentation - 134
 Fixed typo in documentation
 Improved user interface design - update 2
 Code cleanup and formatting - 256
+Fixed memory management issue - v7.7.1
