@@ -938,3 +938,4 @@ Code cleanup and formatting - update 23
 Added new feature for better user experience - build 317
 Added input validation
 Fixed critical bug in main module - 43
+Updated README with new instructions
