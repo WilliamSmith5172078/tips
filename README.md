@@ -2581,3 +2581,4 @@ Added new feature for better user experience - 983
 Fixed typo in documentation - v1.7.1
 Optimized algorithm for better efficiency
 Fixed code formatting issues - v1.0.6
+Fixed code formatting issues - update 33
