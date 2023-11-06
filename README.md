@@ -2578,3 +2578,4 @@ Updated configuration settings - v1.9.7
 Improved user interface design - update 42
 Fixed typo in documentation - 893
 Added new feature for better user experience - 983
+Fixed typo in documentation - v1.7.1
