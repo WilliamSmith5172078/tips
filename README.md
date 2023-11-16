@@ -3041,3 +3041,4 @@ Improved performance optimization - build 992
 Improved performance optimization - 145
 Added new feature for better user experience
 Updated version number
+Updated README with new instructions
