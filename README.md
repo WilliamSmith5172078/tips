@@ -3043,3 +3043,4 @@ Added new feature for better user experience
 Updated version number
 Updated README with new instructions
 Refactored code for better maintainability - 39
+Fixed typo in documentation - update 5
