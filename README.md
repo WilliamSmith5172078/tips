@@ -260,3 +260,4 @@ Improved performance optimization - v3.2.3
 Updated styling and themes - 382
 Updated dependencies to latest versions
 Added input validation - 138
+Added detailed comments for clarity
