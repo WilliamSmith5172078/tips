@@ -3012,3 +3012,4 @@ Added proper error handling
 Updated version number - v10.2.7
 Improved user interface design - build 846
 Updated dependencies to latest versions
+Fixed typo in documentation - 972
