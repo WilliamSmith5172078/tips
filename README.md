@@ -2080,3 +2080,4 @@ Code cleanup and formatting - v4.7.0
 Refactored code for better maintainability
 Fixed critical bug in main module - 759
 Updated project documentation - 855
+Added detailed comments for clarity
