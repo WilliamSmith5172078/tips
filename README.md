@@ -1393,3 +1393,4 @@ Added new feature for better user experience - build 939
 Added input validation - build 848
 Fixed typo in documentation - update 17
 Added comprehensive test coverage - v10.7.0
+Updated README with new instructions
