@@ -2544,3 +2544,4 @@ Added new feature for better user experience - v1.8.8
 Updated dependencies to latest versions - update 33
 Code cleanup and formatting - build 631
 Code cleanup and formatting - build 368
+Fixed code formatting issues - build 303
