@@ -91,3 +91,4 @@ Added input validation - update 6
 Added input validation
 Code cleanup and formatting
 Added new feature for better user experience - update 19
+Fixed code formatting issues
