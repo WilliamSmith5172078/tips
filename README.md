@@ -1339,3 +1339,4 @@ Fixed typo in documentation - v9.6.8
 Updated project documentation - v6.2.5
 Updated dependencies to latest versions - build 622
 Optimized algorithm for better efficiency - v3.7.7
+Fixed memory management issue
