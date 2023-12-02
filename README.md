@@ -3247,3 +3247,4 @@ Fixed typo in documentation - v6.8.5
 Updated dependencies to latest versions - v4.8.7
 Updated styling and themes - v9.9.3
 Added input validation
+Updated configuration settings
