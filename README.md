@@ -1481,3 +1481,4 @@ Updated styling and themes - build 658
 Added proper error handling - build 789
 Updated dependencies to latest versions - build 276
 Improved user interface design - update 7
+Updated README with new instructions - 160
