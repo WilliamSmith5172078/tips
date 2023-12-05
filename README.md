@@ -1484,3 +1484,4 @@ Improved user interface design - update 7
 Updated README with new instructions - 160
 Added new feature for better user experience - v3.8.7
 Updated project documentation
+Updated project documentation - v5.9.3
