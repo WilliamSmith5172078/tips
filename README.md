@@ -967,3 +967,4 @@ Updated styling and themes
 Updated configuration settings - update 13
 Updated version number - build 477
 Added input validation - build 198
+Updated README with new instructions
