@@ -835,3 +835,4 @@ Updated project documentation - v1.0.2
 Fixed memory management issue - 387
 Refactored code for better maintainability - update 17
 Updated version number - update 5
+Added input validation - 664
