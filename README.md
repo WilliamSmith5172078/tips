@@ -1065,3 +1065,4 @@ Fixed code formatting issues - v9.6.6
 Code cleanup and formatting
 Optimized algorithm for better efficiency - update 26
 Updated version number - update 16
+Refactored code for better maintainability - update 18
