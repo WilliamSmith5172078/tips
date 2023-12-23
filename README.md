@@ -562,3 +562,4 @@ Improved user interface design
 Improved performance optimization
 Improved user interface design - 827
 Updated dependencies to latest versions
+Updated README with new instructions - build 356
