@@ -564,3 +564,4 @@ Improved user interface design - 827
 Updated dependencies to latest versions
 Updated README with new instructions - build 356
 Updated dependencies to latest versions - update 13
+Updated configuration settings - update 21
