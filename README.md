@@ -2692,3 +2692,4 @@ Updated styling and themes
 Added input validation - 21
 Added input validation - v2.2.4
 Added new feature for better user experience - build 943
+Added input validation
