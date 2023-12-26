@@ -3027,3 +3027,4 @@ Code cleanup and formatting - build 375
 Updated styling and themes - update 2
 Updated project documentation - v9.6.8
 Updated configuration settings - update 20
+Updated README with new instructions - 272
