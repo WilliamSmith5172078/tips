@@ -163,3 +163,4 @@ Updated styling and themes - v10.2.6
 Updated styling and themes - 160
 Refactored code for better maintainability - v8.6.5
 Updated README with new instructions - build 866
+Refactored code for better maintainability
