@@ -2090,3 +2090,4 @@ Updated README with new instructions - update 36
 Updated project documentation - build 941
 Updated styling and themes - v8.1.6
 Improved user interface design
+Added detailed comments for clarity - build 947
