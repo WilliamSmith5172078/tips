@@ -2329,3 +2329,4 @@ Added new feature for better user experience - build 392
 Refactored code for better maintainability - v1.0.1
 Updated styling and themes - build 120
 Code cleanup and formatting - v4.1.9
+Fixed memory management issue - 704
