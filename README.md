@@ -763,3 +763,4 @@ Added detailed comments for clarity - 973
 Updated styling and themes - 376
 Refactored code for better maintainability
 Added input validation - update 28
+Fixed memory management issue - v8.3.6
