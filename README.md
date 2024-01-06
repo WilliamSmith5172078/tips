@@ -2336,3 +2336,4 @@ Added detailed comments for clarity - build 519
 Updated version number - v10.8.3
 Updated styling and themes - build 896
 Fixed typo in documentation - 712
+Fixed memory management issue
