@@ -2837,3 +2837,4 @@ Fixed typo in documentation - update 46
 Code cleanup and formatting - 837
 Fixed critical bug in main module
 Fixed critical bug in main module
+Added detailed comments for clarity
