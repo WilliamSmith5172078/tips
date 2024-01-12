@@ -1283,3 +1283,4 @@ Added detailed comments for clarity - build 498
 Refactored code for better maintainability - build 281
 Fixed memory management issue - update 28
 Added new feature for better user experience
+Updated README with new instructions - build 862
