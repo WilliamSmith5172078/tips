@@ -2831,3 +2831,4 @@ Updated styling and themes - build 625
 Updated styling and themes - build 994
 Updated project documentation
 Fixed memory management issue
+Added detailed comments for clarity
