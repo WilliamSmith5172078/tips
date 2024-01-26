@@ -3570,3 +3570,4 @@ Refactored code for better maintainability
 Updated styling and themes - 951
 Fixed typo in documentation - 59
 Added detailed comments for clarity - update 12
+Fixed memory management issue - update 39
