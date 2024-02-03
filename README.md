@@ -2318,3 +2318,4 @@ Updated dependencies to latest versions - v8.3.4
 Optimized algorithm for better efficiency - update 4
 Updated project documentation - update 2
 Updated styling and themes - update 46
+Updated README with new instructions - build 661
