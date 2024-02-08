@@ -2884,3 +2884,4 @@ Refactored code for better maintainability - v6.1.0
 Optimized algorithm for better efficiency
 Fixed code formatting issues
 Updated dependencies to latest versions - update 2
+Fixed typo in documentation
