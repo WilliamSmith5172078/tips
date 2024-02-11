@@ -2110,3 +2110,4 @@ Code cleanup and formatting - v5.8.5
 Updated project documentation - 860
 Updated dependencies to latest versions - build 333
 Updated version number
+Code cleanup and formatting - v9.0.0
