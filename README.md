@@ -2995,3 +2995,4 @@ Updated version number - update 19
 Added input validation - 267
 Updated README with new instructions - update 23
 Fixed critical bug in main module
+Fixed critical bug in main module - build 308
