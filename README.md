@@ -3898,3 +3898,4 @@ Fixed critical bug in main module - build 465
 Fixed typo in documentation - build 984
 Improved user interface design - v4.9.3
 Fixed critical bug in main module
+Improved user interface design - v7.1.1
