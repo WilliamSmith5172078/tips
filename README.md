@@ -2680,3 +2680,4 @@ Improved user interface design - 985
 Refactored code for better maintainability - build 598
 Updated README with new instructions - 825
 Updated project documentation - update 18
+Fixed memory management issue - v2.4.5
