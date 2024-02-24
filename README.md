@@ -2678,3 +2678,4 @@ Added new feature for better user experience
 Added input validation - update 13
 Improved user interface design - 985
 Refactored code for better maintainability - build 598
+Updated README with new instructions - 825
