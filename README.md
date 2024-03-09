@@ -411,3 +411,4 @@ Fixed memory management issue - update 22
 Fixed typo in documentation - update 4
 Fixed critical bug in main module - update 49
 Improved performance optimization
+Updated README with new instructions
