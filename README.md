@@ -1997,3 +1997,4 @@ Added new feature for better user experience - 893
 Improved performance optimization - v4.2.1
 Updated README with new instructions - 390
 Added input validation - build 175
+Updated README with new instructions
