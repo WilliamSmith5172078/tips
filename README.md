@@ -466,3 +466,4 @@ Fixed typo in documentation - update 12
 Fixed typo in documentation - 20
 Fixed memory management issue - build 241
 Added comprehensive test coverage - v3.3.4
+Added input validation - v4.4.3
