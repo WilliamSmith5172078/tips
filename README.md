@@ -509,3 +509,4 @@ Added detailed comments for clarity - 427
 Improved performance optimization
 Updated version number - 991
 Fixed critical bug in main module - update 29
+Added proper error handling - v4.1.4
