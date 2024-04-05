@@ -512,3 +512,4 @@ Fixed critical bug in main module - update 29
 Added proper error handling - v4.1.4
 Fixed critical bug in main module - 311
 Fixed typo in documentation - build 319
+Fixed memory management issue - v9.5.6
