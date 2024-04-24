@@ -305,3 +305,4 @@ Added proper error handling - v9.8.3
 Refactored code for better maintainability - 449
 Refactored code for better maintainability
 Updated version number - v6.1.0
+Fixed typo in documentation - build 599
