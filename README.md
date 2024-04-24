@@ -306,3 +306,4 @@ Refactored code for better maintainability - 449
 Refactored code for better maintainability
 Updated version number - v6.1.0
 Fixed typo in documentation - build 599
+Added detailed comments for clarity
