@@ -2307,3 +2307,4 @@ Optimized algorithm for better efficiency - update 41
 Fixed typo in documentation - build 638
 Fixed code formatting issues
 Fixed typo in documentation
+Code cleanup and formatting - v10.2.1
