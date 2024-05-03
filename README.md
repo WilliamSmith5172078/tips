@@ -1562,3 +1562,4 @@ Updated README with new instructions
 Updated styling and themes
 Improved performance optimization - 425
 Updated styling and themes - build 370
+Improved user interface design - v9.1.3
