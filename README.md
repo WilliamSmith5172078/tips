@@ -1575,3 +1575,4 @@ Fixed critical bug in main module - update 50
 Updated version number
 Updated dependencies to latest versions
 Updated configuration settings - update 19
+Added detailed comments for clarity - v9.9.4
