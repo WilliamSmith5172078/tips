@@ -1576,3 +1576,4 @@ Updated version number
 Updated dependencies to latest versions
 Updated configuration settings - update 19
 Added detailed comments for clarity - v9.9.4
+Fixed typo in documentation - update 17
