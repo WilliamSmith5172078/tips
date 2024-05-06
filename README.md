@@ -3929,3 +3929,4 @@ Optimized algorithm for better efficiency - v8.1.2
 Updated project documentation
 Updated README with new instructions - v2.4.6
 Fixed typo in documentation - v3.4.3
+Fixed critical bug in main module
