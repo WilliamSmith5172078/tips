@@ -318,3 +318,4 @@ Fixed memory management issue - build 234
 Updated configuration settings
 Fixed critical bug in main module
 Optimized algorithm for better efficiency - 339
+Fixed typo in documentation - v8.2.7
