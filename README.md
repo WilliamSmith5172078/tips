@@ -3542,3 +3542,4 @@ Added new feature for better user experience - build 249
 Updated styling and themes - v1.4.6
 Fixed code formatting issues - 898
 Fixed code formatting issues - build 596
+Added proper error handling - update 5
