@@ -2185,3 +2185,4 @@ Updated README with new instructions - 246
 Optimized algorithm for better efficiency - 817
 Code cleanup and formatting - 617
 Fixed code formatting issues
+Added input validation
