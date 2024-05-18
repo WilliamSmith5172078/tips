@@ -702,3 +702,4 @@ Updated dependencies to latest versions - v9.7.7
 Fixed typo in documentation - update 20
 Added detailed comments for clarity - update 24
 Optimized algorithm for better efficiency - build 741
+Fixed code formatting issues
