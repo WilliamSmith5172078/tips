@@ -706,3 +706,4 @@ Fixed code formatting issues
 Optimized algorithm for better efficiency - v10.6.2
 Updated dependencies to latest versions - build 224
 Optimized algorithm for better efficiency - 72
+Added detailed comments for clarity - update 48
