@@ -698,3 +698,4 @@ Fixed memory management issue - v2.9.6
 Fixed critical bug in main module
 Updated project documentation - 598
 Fixed typo in documentation - 800
+Updated dependencies to latest versions - v9.7.7
