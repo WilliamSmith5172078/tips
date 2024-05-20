@@ -668,3 +668,4 @@ Code cleanup and formatting - build 263
 Added input validation - 319
 Updated styling and themes - v8.5.8
 Fixed typo in documentation - v6.8.6
+Updated README with new instructions - 547
