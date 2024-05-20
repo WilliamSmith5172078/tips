@@ -673,3 +673,4 @@ Fixed memory management issue - update 48
 Added new feature for better user experience - update 49
 Updated version number - v2.5.1
 Updated configuration settings - update 3
+Fixed typo in documentation - 153
