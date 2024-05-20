@@ -677,3 +677,4 @@ Fixed typo in documentation - 153
 Optimized algorithm for better efficiency - 625
 Added input validation
 Updated dependencies to latest versions - update 26
+Updated README with new instructions
