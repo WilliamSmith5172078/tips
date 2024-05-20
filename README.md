@@ -675,3 +675,4 @@ Updated version number - v2.5.1
 Updated configuration settings - update 3
 Fixed typo in documentation - 153
 Optimized algorithm for better efficiency - 625
+Added input validation
