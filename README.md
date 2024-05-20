@@ -672,3 +672,4 @@ Updated README with new instructions - 547
 Fixed memory management issue - update 48
 Added new feature for better user experience - update 49
 Updated version number - v2.5.1
+Updated configuration settings - update 3
