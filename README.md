@@ -1682,3 +1682,4 @@ Optimized algorithm for better efficiency - 131
 Improved user interface design
 Updated dependencies to latest versions
 Updated dependencies to latest versions
+Updated README with new instructions - v2.6.6
