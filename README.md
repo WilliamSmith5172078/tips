@@ -1683,3 +1683,4 @@ Improved user interface design
 Updated dependencies to latest versions
 Updated dependencies to latest versions
 Updated README with new instructions - v2.6.6
+Added detailed comments for clarity - 950
