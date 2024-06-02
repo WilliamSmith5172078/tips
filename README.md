@@ -3191,3 +3191,4 @@ Added proper error handling - v2.8.3
 Updated styling and themes
 Added new feature for better user experience - v3.5.3
 Fixed typo in documentation - build 386
+Updated README with new instructions - v8.5.0
