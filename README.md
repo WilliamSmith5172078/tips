@@ -3197,3 +3197,4 @@ Fixed code formatting issues
 Optimized algorithm for better efficiency - v8.0.1
 Updated version number - 942
 Updated README with new instructions
+Updated configuration settings - build 390
