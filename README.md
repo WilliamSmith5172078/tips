@@ -3193,3 +3193,4 @@ Added new feature for better user experience - v3.5.3
 Fixed typo in documentation - build 386
 Updated README with new instructions - v8.5.0
 Added new feature for better user experience - 914
+Fixed code formatting issues
