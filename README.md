@@ -3195,3 +3195,4 @@ Updated README with new instructions - v8.5.0
 Added new feature for better user experience - 914
 Fixed code formatting issues
 Optimized algorithm for better efficiency - v8.0.1
+Updated version number - 942
