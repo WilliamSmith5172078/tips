@@ -493,3 +493,4 @@ Updated styling and themes
 Fixed typo in documentation - 517
 Updated dependencies to latest versions - build 509
 Updated dependencies to latest versions - v1.0.4
+Improved performance optimization - 258
