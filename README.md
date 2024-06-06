@@ -492,3 +492,4 @@ Added proper error handling - update 9
 Updated styling and themes
 Fixed typo in documentation - 517
 Updated dependencies to latest versions - build 509
+Updated dependencies to latest versions - v1.0.4
