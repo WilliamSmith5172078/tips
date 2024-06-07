@@ -15,3 +15,4 @@ Added proper error handling - 244
 Fixed critical bug in main module
 Updated README with new instructions
 Added proper error handling - v3.9.3
+Fixed critical bug in main module - update 32
