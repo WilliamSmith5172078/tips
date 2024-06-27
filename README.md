@@ -2375,3 +2375,4 @@ Updated README with new instructions - update 31
 Updated version number - v2.4.7
 Fixed code formatting issues - v5.3.2
 Code cleanup and formatting - build 783
+Updated project documentation - v2.6.0
