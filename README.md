@@ -2377,3 +2377,4 @@ Fixed code formatting issues - v5.3.2
 Code cleanup and formatting - build 783
 Updated project documentation - v2.6.0
 Fixed typo in documentation - v8.1.3
+Improved user interface design
