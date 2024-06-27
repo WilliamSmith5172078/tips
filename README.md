@@ -2371,3 +2371,4 @@ Improved performance optimization - 541
 Added proper error handling - update 6
 Fixed critical bug in main module - 189
 Fixed code formatting issues - v6.0.6
+Updated README with new instructions - update 31
