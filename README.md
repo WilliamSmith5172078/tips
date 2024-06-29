@@ -816,3 +816,4 @@ Fixed memory management issue
 Updated project documentation - update 19
 Improved user interface design - build 668
 Added input validation - v9.4.9
+Updated README with new instructions - build 819
