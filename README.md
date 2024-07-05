@@ -423,3 +423,4 @@ Added detailed comments for clarity - build 425
 Improved user interface design
 Added comprehensive test coverage
 Added comprehensive test coverage - 249
+Updated README with new instructions
