@@ -1910,3 +1910,4 @@ Updated configuration settings - v2.4.4
 Updated version number
 Refactored code for better maintainability - 769
 Updated dependencies to latest versions
+Code cleanup and formatting - 702
