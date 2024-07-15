@@ -1902,3 +1902,4 @@ Updated configuration settings - update 4
 Updated version number
 Added input validation
 Updated version number
+Added proper error handling - v9.5.8
