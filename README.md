@@ -1903,3 +1903,4 @@ Updated version number
 Added input validation
 Updated version number
 Added proper error handling - v9.5.8
+Fixed typo in documentation - v6.0.1
