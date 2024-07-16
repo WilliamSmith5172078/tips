@@ -1594,3 +1594,4 @@ Added proper error handling - build 585
 Fixed code formatting issues
 Fixed code formatting issues - update 2
 Updated dependencies to latest versions - 128
+Fixed memory management issue - v7.1.3
