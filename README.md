@@ -1698,3 +1698,4 @@ Updated dependencies to latest versions - 493
 Code cleanup and formatting - build 904
 Updated project documentation - v1.9.8
 Fixed critical bug in main module - 281
+Fixed code formatting issues - 849
