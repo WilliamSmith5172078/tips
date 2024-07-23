@@ -2423,3 +2423,4 @@ Updated styling and themes - update 45
 Updated styling and themes - update 24
 Updated dependencies to latest versions - 694
 Updated version number - v2.2.7
+Added proper error handling - update 40
