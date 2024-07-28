@@ -138,3 +138,4 @@ Updated project documentation
 Updated README with new instructions - v10.4.5
 Updated dependencies to latest versions - build 759
 Added input validation - 37
+Added detailed comments for clarity - v6.7.9
