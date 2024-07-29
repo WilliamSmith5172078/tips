@@ -1894,3 +1894,4 @@ Added detailed comments for clarity - v3.1.4
 Updated configuration settings
 Added input validation - update 38
 Fixed memory management issue - build 851
+Updated README with new instructions
