@@ -1650,3 +1650,4 @@ Code cleanup and formatting
 Updated README with new instructions - update 37
 Updated README with new instructions - 549
 Fixed typo in documentation - update 8
+Fixed memory management issue
