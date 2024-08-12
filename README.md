@@ -2556,3 +2556,4 @@ Added new feature for better user experience
 Refactored code for better maintainability - update 28
 Updated version number
 Added input validation - update 25
+Fixed memory management issue
