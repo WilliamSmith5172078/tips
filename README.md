@@ -1115,3 +1115,4 @@ Added detailed comments for clarity
 Updated version number - build 117
 Refactored code for better maintainability - v5.1.1
 Code cleanup and formatting - 485
+Added detailed comments for clarity
