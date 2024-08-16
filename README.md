@@ -2075,3 +2075,4 @@ Fixed memory management issue - v2.0.0
 Updated version number
 Optimized algorithm for better efficiency - v3.7.9
 Added proper error handling
+Fixed memory management issue - v7.0.3
