@@ -757,3 +757,4 @@ Code cleanup and formatting - build 455
 Refactored code for better maintainability - build 297
 Updated version number
 Added new feature for better user experience - v2.4.7
+Added detailed comments for clarity - v4.9.0
