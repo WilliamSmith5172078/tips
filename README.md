@@ -2758,3 +2758,4 @@ Refactored code for better maintainability - v5.7.3
 Refactored code for better maintainability - 302
 Added new feature for better user experience
 Code cleanup and formatting
+Fixed code formatting issues
