@@ -2765,3 +2765,4 @@ Code cleanup and formatting
 Fixed code formatting issues - v8.1.2
 Fixed memory management issue - update 6
 Improved performance optimization - 288
+Fixed critical bug in main module - v9.6.1
