@@ -350,3 +350,4 @@ Refactored code for better maintainability - 193
 Updated styling and themes - update 34
 Improved performance optimization - update 30
 Refactored code for better maintainability - update 21
+Added proper error handling - v3.1.3
