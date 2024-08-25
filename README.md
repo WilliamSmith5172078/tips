@@ -356,3 +356,4 @@ Code cleanup and formatting - v7.8.3
 Updated project documentation - 799
 Updated README with new instructions - v9.1.7
 Code cleanup and formatting - build 895
+Improved user interface design - build 324
