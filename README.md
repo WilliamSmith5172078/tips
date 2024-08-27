@@ -1056,3 +1056,4 @@ Improved user interface design - build 998
 Fixed critical bug in main module - v3.4.5
 Added proper error handling - update 10
 Added proper error handling - update 46
+Updated README with new instructions
