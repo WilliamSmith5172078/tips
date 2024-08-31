@@ -2133,3 +2133,4 @@ Updated project documentation - build 546
 Fixed code formatting issues - 220
 Updated project documentation
 Fixed typo in documentation - v8.3.0
+Fixed typo in documentation - v1.3.0
