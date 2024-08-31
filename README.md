@@ -740,3 +740,4 @@ Fixed memory management issue - v5.1.1
 Fixed code formatting issues
 Updated styling and themes - update 18
 Updated README with new instructions - update 35
+Updated styling and themes - v6.4.4
