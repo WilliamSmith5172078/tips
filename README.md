@@ -742,3 +742,4 @@ Updated styling and themes - update 18
 Updated README with new instructions - update 35
 Updated styling and themes - v6.4.4
 Fixed code formatting issues - 47
+Fixed critical bug in main module
