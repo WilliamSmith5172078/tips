@@ -1104,3 +1104,4 @@ Improved performance optimization
 Updated configuration settings - v7.2.1
 Improved user interface design - build 650
 Optimized algorithm for better efficiency
+Updated README with new instructions
