@@ -539,3 +539,4 @@ Updated styling and themes - update 25
 Added comprehensive test coverage - update 16
 Updated configuration settings
 Added comprehensive test coverage - 791
+Fixed memory management issue - v6.0.0
