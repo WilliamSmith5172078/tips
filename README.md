@@ -540,3 +540,4 @@ Added comprehensive test coverage - update 16
 Updated configuration settings
 Added comprehensive test coverage - 791
 Fixed memory management issue - v6.0.0
+Fixed memory management issue - 381
