@@ -2634,3 +2634,4 @@ Optimized algorithm for better efficiency
 Fixed typo in documentation - 574
 Added new feature for better user experience - v3.5.3
 Code cleanup and formatting
+Updated README with new instructions - update 31
