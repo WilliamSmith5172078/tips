@@ -375,3 +375,4 @@ Updated project documentation
 Updated styling and themes - 68
 Updated styling and themes
 Updated dependencies to latest versions
+Fixed code formatting issues - update 29
