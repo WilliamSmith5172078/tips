@@ -369,3 +369,4 @@ Added input validation
 Updated styling and themes - 707
 Updated project documentation
 Updated project documentation
+Updated dependencies to latest versions
