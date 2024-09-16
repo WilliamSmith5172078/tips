@@ -3029,3 +3029,4 @@ Updated project documentation - v9.6.8
 Updated configuration settings - update 20
 Updated README with new instructions - 272
 Added comprehensive test coverage - build 523
+Updated README with new instructions - 204
