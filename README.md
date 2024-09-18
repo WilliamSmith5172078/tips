@@ -552,3 +552,4 @@ Added detailed comments for clarity - build 801
 Fixed memory management issue
 Fixed memory management issue
 Added new feature for better user experience
+Added input validation - v2.3.2
