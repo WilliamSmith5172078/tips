@@ -1007,3 +1007,4 @@ Updated version number - v3.2.4
 Code cleanup and formatting - build 436
 Improved user interface design - update 45
 Fixed code formatting issues - update 35
+Fixed memory management issue - update 33
