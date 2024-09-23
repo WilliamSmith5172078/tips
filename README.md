@@ -2966,3 +2966,4 @@ Updated dependencies to latest versions
 Added proper error handling - 553
 Added new feature for better user experience - v3.0.6
 Added proper error handling - update 18
+Fixed memory management issue - update 6
