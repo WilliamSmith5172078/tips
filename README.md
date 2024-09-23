@@ -1003,3 +1003,4 @@ Updated dependencies to latest versions - update 25
 Fixed memory management issue
 Fixed critical bug in main module - build 338
 Updated dependencies to latest versions - 800
+Updated version number - v3.2.4
