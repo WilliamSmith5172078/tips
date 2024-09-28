@@ -3915,3 +3915,4 @@ Improved performance optimization - 573
 Fixed memory management issue - v8.3.6
 Updated version number - build 480
 Code cleanup and formatting - 542
+Updated version number - v6.5.1
