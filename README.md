@@ -862,3 +862,4 @@ Added new feature for better user experience - 321
 Fixed memory management issue - v5.5.2
 Added new feature for better user experience - v8.8.2
 Fixed typo in documentation - update 38
+Code cleanup and formatting - v10.5.5
