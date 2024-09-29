@@ -861,3 +861,4 @@ Added input validation - v9.4.1
 Added new feature for better user experience - 321
 Fixed memory management issue - v5.5.2
 Added new feature for better user experience - v8.8.2
+Fixed typo in documentation - update 38
