@@ -399,3 +399,4 @@ Fixed critical bug in main module
 Updated dependencies to latest versions
 Updated version number - 367
 Updated configuration settings - 610
+Fixed critical bug in main module - v7.8.1
