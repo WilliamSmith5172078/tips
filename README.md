@@ -2387,3 +2387,4 @@ Updated styling and themes - 364
 Improved user interface design - v6.0.9
 Fixed critical bug in main module - update 11
 Updated README with new instructions - update 32
+Updated README with new instructions - v10.3.1
