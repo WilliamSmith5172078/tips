@@ -1179,3 +1179,4 @@ Code cleanup and formatting - build 457
 Added detailed comments for clarity - 265
 Code cleanup and formatting - build 264
 Updated styling and themes - update 39
+Updated README with new instructions - v7.5.2
