@@ -1185,3 +1185,4 @@ Updated project documentation - 656
 Updated version number - v8.1.4
 Fixed memory management issue - 898
 Added detailed comments for clarity - update 30
+Code cleanup and formatting - 419
