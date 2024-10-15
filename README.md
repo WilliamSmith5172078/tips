@@ -1182,3 +1182,4 @@ Updated styling and themes - update 39
 Updated README with new instructions - v7.5.2
 Optimized algorithm for better efficiency - 364
 Updated project documentation - 656
+Updated version number - v8.1.4
