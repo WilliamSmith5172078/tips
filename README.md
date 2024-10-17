@@ -2058,3 +2058,4 @@ Added new feature for better user experience - build 816
 Fixed code formatting issues - v10.6.2
 Fixed critical bug in main module - update 49
 Updated version number - build 344
+Added detailed comments for clarity
