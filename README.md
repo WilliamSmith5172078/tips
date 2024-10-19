@@ -2463,3 +2463,4 @@ Updated version number - update 37
 Added comprehensive test coverage - 395
 Added comprehensive test coverage
 Code cleanup and formatting - v4.1.7
+Fixed code formatting issues - 817
