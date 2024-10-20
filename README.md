@@ -22,3 +22,4 @@ Added new feature for better user experience - v9.0.1
 Improved performance optimization - build 351
 Updated project documentation
 Fixed memory management issue
+Fixed memory management issue - build 868
