@@ -21,3 +21,4 @@ Improved user interface design - build 725
 Added new feature for better user experience - v9.0.1
 Improved performance optimization - build 351
 Updated project documentation
+Fixed memory management issue
