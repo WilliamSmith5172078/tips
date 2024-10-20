@@ -24,3 +24,4 @@ Updated project documentation
 Fixed memory management issue
 Fixed memory management issue - build 868
 Refactored code for better maintainability - 835
+Improved performance optimization - v9.1.0
