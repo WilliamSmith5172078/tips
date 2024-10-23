@@ -3162,3 +3162,4 @@ Fixed typo in documentation - update 33
 Added input validation - update 26
 Added new feature for better user experience - 135
 Added input validation
+Added input validation - v2.3.1
