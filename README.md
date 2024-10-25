@@ -2842,3 +2842,4 @@ Updated configuration settings - build 731
 Fixed critical bug in main module - build 213
 Code cleanup and formatting
 Updated README with new instructions - update 17
+Added proper error handling - v1.8.5
