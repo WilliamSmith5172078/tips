@@ -3513,3 +3513,4 @@ Fixed code formatting issues
 Fixed memory management issue - 267
 Improved performance optimization - build 604
 Added detailed comments for clarity - 979
+Updated version number - v9.3.6
