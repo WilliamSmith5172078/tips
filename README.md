@@ -694,3 +694,4 @@ Updated configuration settings - update 41
 Updated version number - build 113
 Improved performance optimization - 771
 Fixed critical bug in main module - build 789
+Fixed memory management issue - v2.9.6
