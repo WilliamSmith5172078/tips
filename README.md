@@ -1662,3 +1662,4 @@ Updated project documentation - build 512
 Improved user interface design - 677
 Improved user interface design - build 417
 Updated version number - update 22
+Code cleanup and formatting - v5.1.4
