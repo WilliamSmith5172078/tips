@@ -1665,3 +1665,4 @@ Updated version number - update 22
 Code cleanup and formatting - v5.1.4
 Updated styling and themes - v10.9.0
 Added new feature for better user experience - v5.7.1
+Updated styling and themes - update 21
