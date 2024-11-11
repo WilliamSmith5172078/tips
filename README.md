@@ -1722,3 +1722,4 @@ Updated project documentation - update 39
 Updated styling and themes - build 533
 Fixed critical bug in main module - 809
 Updated configuration settings - v7.1.7
+Fixed memory management issue - update 29
