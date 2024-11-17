@@ -586,3 +586,4 @@ Added detailed comments for clarity
 Fixed memory management issue - build 827
 Fixed memory management issue
 Improved performance optimization - 424
+Fixed memory management issue - v8.1.8
