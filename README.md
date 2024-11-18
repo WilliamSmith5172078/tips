@@ -3057,3 +3057,4 @@ Updated README with new instructions - v8.7.7
 Updated dependencies to latest versions - build 347
 Updated README with new instructions - v5.5.8
 Updated styling and themes - update 44
+Updated configuration settings - v5.0.1
