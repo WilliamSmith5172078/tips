@@ -3053,3 +3053,4 @@ Updated styling and themes - update 9
 Added detailed comments for clarity
 Optimized algorithm for better efficiency - 5
 Improved user interface design - 817
+Updated README with new instructions - v8.7.7
