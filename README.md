@@ -2530,3 +2530,4 @@ Fixed memory management issue - update 31
 Updated configuration settings
 Updated styling and themes - v2.8.9
 Fixed typo in documentation - build 942
+Fixed critical bug in main module - 96
