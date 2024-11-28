@@ -2531,3 +2531,4 @@ Updated configuration settings
 Updated styling and themes - v2.8.9
 Fixed typo in documentation - build 942
 Fixed critical bug in main module - 96
+Added detailed comments for clarity
