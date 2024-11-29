@@ -3526,3 +3526,4 @@ Fixed typo in documentation - v5.9.2
 Refactored code for better maintainability - 776
 Fixed code formatting issues - 389
 Refactored code for better maintainability - update 23
+Fixed typo in documentation - v9.9.6
