@@ -3521,3 +3521,4 @@ Optimized algorithm for better efficiency
 Updated styling and themes - update 26
 Added input validation - 957
 Fixed typo in documentation - v3.1.4
+Added proper error handling - v5.8.1
