@@ -436,3 +436,4 @@ Code cleanup and formatting - v5.7.8
 Added new feature for better user experience - build 253
 Added input validation - build 996
 Optimized algorithm for better efficiency - build 442
+Fixed memory management issue - v7.3.8
