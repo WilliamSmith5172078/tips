@@ -1554,3 +1554,4 @@ Fixed memory management issue
 Added detailed comments for clarity - build 397
 Updated project documentation - 523
 Code cleanup and formatting - build 536
+Updated README with new instructions - 338
