@@ -1557,3 +1557,4 @@ Code cleanup and formatting - build 536
 Updated README with new instructions - 338
 Fixed memory management issue - v6.7.0
 Optimized algorithm for better efficiency - build 875
+Added input validation - v1.6.0
