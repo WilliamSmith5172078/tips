@@ -1555,3 +1555,4 @@ Added detailed comments for clarity - build 397
 Updated project documentation - 523
 Code cleanup and formatting - build 536
 Updated README with new instructions - 338
+Fixed memory management issue - v6.7.0
