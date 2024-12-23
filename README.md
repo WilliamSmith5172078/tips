@@ -1428,3 +1428,4 @@ Updated README with new instructions - update 21
 Updated project documentation - v4.3.6
 Updated version number - update 9
 Fixed critical bug in main module - 883
+Updated version number - v6.7.1
