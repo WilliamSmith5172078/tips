@@ -1436,3 +1436,4 @@ Updated README with new instructions - update 48
 Updated version number - v7.9.3
 Added comprehensive test coverage
 Fixed critical bug in main module - build 531
+Updated styling and themes - build 501
