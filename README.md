@@ -856,3 +856,4 @@ Fixed typo in documentation
 Added proper error handling - v6.9.2
 Improved user interface design - 126
 Fixed critical bug in main module - 449
+Improved user interface design - v5.3.4
