@@ -443,3 +443,4 @@ Updated project documentation - 23
 Updated version number - 664
 Improved performance optimization
 Fixed typo in documentation
+Updated version number - v9.9.2
