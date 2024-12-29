@@ -3477,3 +3477,4 @@ Fixed code formatting issues - v3.0.0
 Fixed code formatting issues
 Fixed code formatting issues
 Refactored code for better maintainability - v7.7.4
+Fixed typo in documentation - update 41
