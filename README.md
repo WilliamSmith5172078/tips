@@ -3456,3 +3456,4 @@ Updated project documentation - v6.6.3
 Updated README with new instructions
 Added input validation - update 13
 Updated version number - update 4
+Added input validation - v1.6.6
