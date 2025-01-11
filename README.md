@@ -2851,3 +2851,4 @@ Fixed memory management issue - build 902
 Fixed code formatting issues - build 501
 Updated version number
 Fixed critical bug in main module - update 25
+Updated configuration settings - v3.9.3
