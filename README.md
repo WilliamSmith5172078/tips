@@ -2497,3 +2497,4 @@ Fixed typo in documentation - build 530
 Fixed typo in documentation
 Added input validation - update 22
 Fixed code formatting issues
+Added new feature for better user experience - build 599
