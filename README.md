@@ -75,3 +75,4 @@ Added detailed comments for clarity - v7.7.8
 Fixed code formatting issues - update 6
 Fixed code formatting issues
 Refactored code for better maintainability
+Updated README with new instructions
