@@ -235,3 +235,4 @@ Updated project documentation - build 306
 Added new feature for better user experience - update 42
 Code cleanup and formatting - update 12
 Updated configuration settings - 299
+Fixed memory management issue - v7.6.2
