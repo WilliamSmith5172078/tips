@@ -389,3 +389,4 @@ Updated README with new instructions - update 30
 Fixed memory management issue - build 244
 Fixed memory management issue
 Fixed code formatting issues - v9.1.8
+Fixed critical bug in main module - v10.5.7
