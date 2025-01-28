@@ -397,3 +397,4 @@ Updated README with new instructions - build 911
 Fixed critical bug in main module - build 398
 Fixed critical bug in main module
 Updated dependencies to latest versions
+Updated version number - 367
