@@ -635,3 +635,4 @@ Updated README with new instructions - build 807
 Code cleanup and formatting - build 189
 Updated dependencies to latest versions - 543
 Improved user interface design
+Added detailed comments for clarity - build 616
