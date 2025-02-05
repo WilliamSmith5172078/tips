@@ -1093,3 +1093,4 @@ Fixed critical bug in main module - build 742
 Updated version number
 Updated configuration settings - build 743
 Updated configuration settings - 150
+Fixed typo in documentation - 726
