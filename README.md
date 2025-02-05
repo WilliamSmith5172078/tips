@@ -1092,3 +1092,4 @@ Code cleanup and formatting - 188
 Fixed critical bug in main module - build 742
 Updated version number
 Updated configuration settings - build 743
+Updated configuration settings - 150
