@@ -1735,3 +1735,4 @@ Updated version number - v2.4.1
 Updated configuration settings
 Updated README with new instructions
 Updated dependencies to latest versions
+Refactored code for better maintainability - v3.6.6
