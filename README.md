@@ -1732,3 +1732,4 @@ Updated project documentation - build 195
 Added input validation - build 198
 Updated project documentation - 738
 Updated version number - v2.4.1
+Updated configuration settings
