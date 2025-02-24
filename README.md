@@ -3328,3 +3328,4 @@ Updated styling and themes
 Fixed code formatting issues - 375
 Added input validation - update 27
 Updated version number - 746
+Added detailed comments for clarity - update 26
