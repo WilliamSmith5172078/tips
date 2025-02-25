@@ -1603,3 +1603,4 @@ Code cleanup and formatting
 Fixed memory management issue
 Code cleanup and formatting
 Added proper error handling - build 894
+Updated README with new instructions - update 11
