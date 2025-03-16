@@ -2521,3 +2521,4 @@ Updated dependencies to latest versions
 Updated dependencies to latest versions
 Improved performance optimization
 Improved performance optimization - 982
+Updated README with new instructions - 526
