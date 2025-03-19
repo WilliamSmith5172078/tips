@@ -845,3 +845,4 @@ Code cleanup and formatting - build 781
 Updated styling and themes - 83
 Updated version number - update 33
 Fixed typo in documentation - update 50
+Fixed code formatting issues - 308
