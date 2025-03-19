@@ -844,3 +844,4 @@ Fixed code formatting issues
 Code cleanup and formatting - build 781
 Updated styling and themes - 83
 Updated version number - update 33
+Fixed typo in documentation - update 50
