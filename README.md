@@ -2774,3 +2774,4 @@ Fixed typo in documentation - update 44
 Improved performance optimization
 Added detailed comments for clarity - v4.9.6
 Code cleanup and formatting - 243
+Fixed code formatting issues - 190
