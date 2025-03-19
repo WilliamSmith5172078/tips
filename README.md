@@ -838,3 +838,4 @@ Updated version number - update 5
 Added input validation - 664
 Fixed memory management issue - build 477
 Fixed memory management issue - v9.7.0
+Updated configuration settings
