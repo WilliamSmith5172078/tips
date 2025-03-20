@@ -2506,3 +2506,4 @@ Updated README with new instructions - v6.8.8
 Updated README with new instructions - 339
 Fixed memory management issue - v1.7.8
 Code cleanup and formatting - v3.9.2
+Updated README with new instructions - build 984
