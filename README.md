@@ -2504,3 +2504,4 @@ Fixed code formatting issues - v5.7.3
 Updated README with new instructions - update 9
 Updated README with new instructions - v6.8.8
 Updated README with new instructions - 339
+Fixed memory management issue - v1.7.8
