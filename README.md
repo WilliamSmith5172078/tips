@@ -724,3 +724,4 @@ Improved performance optimization - v3.6.3
 Updated version number - build 947
 Refactored code for better maintainability - update 46
 Optimized algorithm for better efficiency - 251
+Updated README with new instructions - v3.7.5
