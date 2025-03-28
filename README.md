@@ -1406,3 +1406,4 @@ Updated version number
 Refactored code for better maintainability - v4.0.8
 Updated version number - 797
 Added detailed comments for clarity - update 12
+Fixed memory management issue - update 50
