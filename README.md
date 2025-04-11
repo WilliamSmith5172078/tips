@@ -2347,3 +2347,4 @@ Fixed code formatting issues - update 7
 Updated project documentation
 Added detailed comments for clarity
 Improved user interface design - 907
+Updated version number - v1.5.1
