@@ -2338,3 +2338,4 @@ Updated styling and themes - build 896
 Fixed typo in documentation - 712
 Fixed memory management issue
 Updated version number
+Updated README with new instructions - update 30
