@@ -977,3 +977,4 @@ Added new feature for better user experience
 Updated styling and themes - build 973
 Updated README with new instructions - build 579
 Updated README with new instructions - 335
+Refactored code for better maintainability - 423
