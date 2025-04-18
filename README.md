@@ -976,3 +976,4 @@ Updated dependencies to latest versions - build 783
 Added new feature for better user experience
 Updated styling and themes - build 973
 Updated README with new instructions - build 579
+Updated README with new instructions - 335
