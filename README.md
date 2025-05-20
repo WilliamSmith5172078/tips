@@ -737,3 +737,4 @@ Code cleanup and formatting
 Updated project documentation - update 50
 Code cleanup and formatting - update 31
 Fixed memory management issue - v5.1.1
+Fixed code formatting issues
