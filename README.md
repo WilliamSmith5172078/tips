@@ -728,3 +728,4 @@ Updated README with new instructions - v3.7.5
 Improved performance optimization - update 42
 Added comprehensive test coverage - 490
 Updated README with new instructions - update 4
+Fixed typo in documentation
