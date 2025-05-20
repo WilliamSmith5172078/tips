@@ -731,3 +731,4 @@ Updated README with new instructions - update 4
 Fixed typo in documentation
 Updated README with new instructions - update 20
 Fixed typo in documentation - build 769
+Added new feature for better user experience - update 1
