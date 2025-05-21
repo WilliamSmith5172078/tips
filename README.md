@@ -309,3 +309,4 @@ Fixed typo in documentation - build 599
 Added detailed comments for clarity
 Fixed typo in documentation - 243
 Added new feature for better user experience - v1.5.5
+Fixed memory management issue - build 814
