@@ -312,3 +312,4 @@ Added new feature for better user experience - v1.5.5
 Fixed memory management issue - build 814
 Updated configuration settings - v2.1.8
 Optimized algorithm for better efficiency - 163
+Added new feature for better user experience - build 803
