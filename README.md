@@ -898,3 +898,4 @@ Code cleanup and formatting - 610
 Updated README with new instructions - update 18
 Improved performance optimization - 314
 Updated README with new instructions - build 826
+Added proper error handling - v4.3.7
