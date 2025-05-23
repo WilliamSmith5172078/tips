@@ -2590,3 +2590,4 @@ Fixed typo in documentation - build 228
 Added input validation - update 45
 Improved performance optimization - v3.3.1
 Updated configuration settings - v6.5.9
+Updated README with new instructions - build 613
