@@ -2745,3 +2745,4 @@ Updated styling and themes - 81
 Added new feature for better user experience - v8.1.4
 Improved performance optimization - build 944
 Fixed memory management issue - 941
+Fixed typo in documentation - 379
