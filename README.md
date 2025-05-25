@@ -2743,3 +2743,4 @@ Fixed critical bug in main module - build 949
 Updated styling and themes - 498
 Updated styling and themes - 81
 Added new feature for better user experience - v8.1.4
+Improved performance optimization - build 944
