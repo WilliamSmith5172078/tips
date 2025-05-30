@@ -889,3 +889,4 @@ Updated styling and themes - v6.0.5
 Improved performance optimization - update 19
 Fixed memory management issue - 266
 Updated configuration settings - update 8
+Fixed typo in documentation
