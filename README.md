@@ -891,3 +891,4 @@ Fixed memory management issue - 266
 Updated configuration settings - update 8
 Fixed typo in documentation
 Optimized algorithm for better efficiency
+Updated version number - v5.0.1
