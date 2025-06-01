@@ -245,3 +245,4 @@ Added new feature for better user experience - v7.6.2
 Updated version number
 Fixed typo in documentation - v3.1.0
 Updated version number - v7.1.5
+Updated configuration settings - update 4
