@@ -239,3 +239,4 @@ Fixed memory management issue - v7.6.2
 Refactored code for better maintainability - 332
 Added input validation - build 330
 Added new feature for better user experience - v6.3.8
+Updated README with new instructions - v10.1.0
