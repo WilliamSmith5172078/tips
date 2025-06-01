@@ -242,3 +242,4 @@ Added new feature for better user experience - v6.3.8
 Updated README with new instructions - v10.1.0
 Added detailed comments for clarity
 Added new feature for better user experience - v7.6.2
+Updated version number
