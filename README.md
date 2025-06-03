@@ -1928,3 +1928,4 @@ Fixed critical bug in main module
 Code cleanup and formatting - update 2
 Fixed typo in documentation - update 45
 Updated version number - build 965
+Updated configuration settings
