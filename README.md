@@ -921,3 +921,4 @@ Improved performance optimization - v8.9.8
 Improved user interface design
 Updated configuration settings - 241
 Fixed code formatting issues
+Fixed memory management issue - update 21
