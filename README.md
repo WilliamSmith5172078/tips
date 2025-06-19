@@ -2290,3 +2290,4 @@ Updated version number - 710
 Updated README with new instructions - build 491
 Updated configuration settings
 Code cleanup and formatting - build 939
+Updated README with new instructions - build 895
