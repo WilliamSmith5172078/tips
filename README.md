@@ -1884,3 +1884,4 @@ Fixed memory management issue - update 31
 Updated version number - v3.3.7
 Updated version number
 Updated README with new instructions - update 19
+Fixed memory management issue - v4.8.6
