@@ -1883,3 +1883,4 @@ Updated styling and themes - v10.2.1
 Fixed memory management issue - update 31
 Updated version number - v3.3.7
 Updated version number
+Updated README with new instructions - update 19
