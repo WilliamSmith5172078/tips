@@ -2981,3 +2981,4 @@ Updated README with new instructions - update 29
 Updated README with new instructions
 Updated version number
 Updated README with new instructions - update 34
+Improved user interface design - 823
