@@ -2985,3 +2985,4 @@ Improved user interface design - 823
 Optimized algorithm for better efficiency
 Updated styling and themes - build 763
 Updated dependencies to latest versions - 759
+Added input validation - v5.0.7
