@@ -2987,3 +2987,4 @@ Updated styling and themes - build 763
 Updated dependencies to latest versions - 759
 Added input validation - v5.0.7
 Optimized algorithm for better efficiency
+Added input validation - v2.9.7
