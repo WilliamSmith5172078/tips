@@ -2980,3 +2980,4 @@ Fixed code formatting issues - build 554
 Updated README with new instructions - update 29
 Updated README with new instructions
 Updated version number
+Updated README with new instructions - update 34
