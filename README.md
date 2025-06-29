@@ -2287,3 +2287,4 @@ Optimized algorithm for better efficiency - v5.1.0
 Updated configuration settings - update 20
 Fixed code formatting issues
 Updated version number - 710
+Updated README with new instructions - build 491
