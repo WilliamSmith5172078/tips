@@ -3183,3 +3183,4 @@ Added proper error handling - v5.3.9
 Updated README with new instructions - build 577
 Updated configuration settings
 Fixed memory management issue - v7.4.8
+Added new feature for better user experience - v8.1.6
