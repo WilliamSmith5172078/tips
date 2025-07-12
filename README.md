@@ -3883,3 +3883,4 @@ Updated configuration settings - 673
 Code cleanup and formatting
 Fixed code formatting issues - 323
 Added detailed comments for clarity
+Updated README with new instructions - update 6
