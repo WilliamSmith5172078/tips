@@ -3501,3 +3501,4 @@ Fixed memory management issue - v10.9.7
 Updated version number
 Fixed memory management issue - update 21
 Added detailed comments for clarity - update 20
+Fixed typo in documentation - update 47
