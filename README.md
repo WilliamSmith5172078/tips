@@ -3507,3 +3507,4 @@ Updated README with new instructions
 Code cleanup and formatting - build 994
 Added comprehensive test coverage - 616
 Code cleanup and formatting - build 839
+Updated README with new instructions - 286
