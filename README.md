@@ -1836,3 +1836,4 @@ Improved user interface design - build 350
 Added detailed comments for clarity - 97
 Code cleanup and formatting - build 399
 Improved performance optimization - 278
+Updated README with new instructions - 401
