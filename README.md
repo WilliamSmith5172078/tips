@@ -3848,3 +3848,4 @@ Added new feature for better user experience - v4.1.8
 Improved performance optimization - update 32
 Added input validation - build 467
 Improved performance optimization - 676
+Added detailed comments for clarity - 859
