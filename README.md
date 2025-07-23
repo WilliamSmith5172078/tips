@@ -2410,3 +2410,4 @@ Updated README with new instructions - v3.5.8
 Added comprehensive test coverage - build 521
 Updated dependencies to latest versions - update 39
 Added proper error handling - build 724
+Updated version number - 60
