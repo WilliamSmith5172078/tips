@@ -2412,3 +2412,4 @@ Updated dependencies to latest versions - update 39
 Added proper error handling - build 724
 Updated version number - 60
 Updated dependencies to latest versions - v9.1.8
+Updated README with new instructions - v9.1.0
