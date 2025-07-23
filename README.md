@@ -2416,3 +2416,4 @@ Updated README with new instructions - v9.1.0
 Optimized algorithm for better efficiency - v1.4.4
 Updated styling and themes - 596
 Fixed memory management issue - update 5
+Updated configuration settings - v5.7.1
