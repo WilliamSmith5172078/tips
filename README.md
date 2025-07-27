@@ -1241,3 +1241,4 @@ Fixed typo in documentation - 479
 Improved user interface design - 705
 Updated version number - build 211
 Fixed memory management issue - update 5
+Fixed memory management issue - 70
