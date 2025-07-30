@@ -3690,3 +3690,4 @@ Added proper error handling - 598
 Updated styling and themes - v1.6.3
 Code cleanup and formatting - 769
 Fixed code formatting issues - 438
+Added input validation - v1.8.8
