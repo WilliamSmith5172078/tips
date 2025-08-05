@@ -3231,3 +3231,4 @@ Added new feature for better user experience - update 27
 Improved performance optimization - 473
 Fixed typo in documentation
 Added detailed comments for clarity - update 22
+Updated README with new instructions
