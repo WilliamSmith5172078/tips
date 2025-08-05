@@ -3235,3 +3235,4 @@ Updated README with new instructions
 Added proper error handling - 159
 Improved performance optimization - build 855
 Added comprehensive test coverage - v2.1.1
+Updated README with new instructions
