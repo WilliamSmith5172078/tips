@@ -3309,3 +3309,4 @@ Updated dependencies to latest versions - build 114
 Refactored code for better maintainability - v5.0.6
 Updated styling and themes - build 101
 Fixed typo in documentation - build 984
+Updated README with new instructions - v8.6.2
