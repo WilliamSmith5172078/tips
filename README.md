@@ -3312,3 +3312,4 @@ Fixed typo in documentation - build 984
 Updated README with new instructions - v8.6.2
 Updated configuration settings - v1.8.7
 Code cleanup and formatting - update 38
+Updated configuration settings - build 505
