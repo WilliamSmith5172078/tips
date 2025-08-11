@@ -56,3 +56,4 @@ Refactored code for better maintainability - 917
 Updated README with new instructions - v5.5.8
 Optimized algorithm for better efficiency
 Updated README with new instructions
+Added new feature for better user experience - 532
