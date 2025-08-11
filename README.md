@@ -53,3 +53,4 @@ Updated project documentation
 Improved performance optimization - update 10
 Fixed typo in documentation - v2.7.1
 Refactored code for better maintainability - 917
+Updated README with new instructions - v5.5.8
