@@ -3413,3 +3413,4 @@ Updated configuration settings - 606
 Updated styling and themes - 576
 Code cleanup and formatting - update 28
 Added input validation
+Updated version number - v10.5.1
