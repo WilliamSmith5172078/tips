@@ -3409,3 +3409,4 @@ Added new feature for better user experience
 Added proper error handling - v8.6.2
 Updated README with new instructions - v1.7.6
 Fixed critical bug in main module - 511
+Updated configuration settings - 606
