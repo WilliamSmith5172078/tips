@@ -3667,3 +3667,4 @@ Updated styling and themes - 586
 Added new feature for better user experience - update 44
 Updated configuration settings
 Code cleanup and formatting - v7.2.4
+Fixed typo in documentation - 251
