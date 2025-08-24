@@ -528,3 +528,4 @@ Updated dependencies to latest versions - v3.3.5
 Fixed critical bug in main module
 Fixed critical bug in main module - v5.3.3
 Improved user interface design - build 377
+Added detailed comments for clarity - update 49
