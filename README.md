@@ -3206,3 +3206,4 @@ Added proper error handling - v2.6.2
 Fixed typo in documentation - update 30
 Fixed code formatting issues - build 390
 Updated version number - v5.1.9
+Updated README with new instructions - 340
