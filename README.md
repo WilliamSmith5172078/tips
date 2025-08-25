@@ -1629,3 +1629,4 @@ Updated styling and themes - build 843
 Fixed typo in documentation
 Updated styling and themes
 Updated dependencies to latest versions - build 670
+Added proper error handling - v8.1.3
