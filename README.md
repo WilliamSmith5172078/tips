@@ -3260,3 +3260,4 @@ Added input validation - build 436
 Updated version number
 Fixed code formatting issues
 Fixed critical bug in main module - update 16
+Fixed memory management issue - v6.0.6
