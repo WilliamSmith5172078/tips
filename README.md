@@ -1696,3 +1696,4 @@ Updated README with new instructions - build 732
 Code cleanup and formatting - v7.3.0
 Updated dependencies to latest versions - 493
 Code cleanup and formatting - build 904
+Updated project documentation - v1.9.8
