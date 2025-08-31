@@ -1690,3 +1690,4 @@ Updated styling and themes - 368
 Improved performance optimization
 Fixed memory management issue - 37
 Updated version number - 972
+Fixed typo in documentation - v10.4.5
