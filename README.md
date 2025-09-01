@@ -135,3 +135,4 @@ Refactored code for better maintainability - v10.8.3
 Fixed code formatting issues
 Added proper error handling - update 9
 Updated project documentation
+Updated README with new instructions - v10.4.5
