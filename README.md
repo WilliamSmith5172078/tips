@@ -131,3 +131,4 @@ Added new feature for better user experience - v2.5.9
 Improved performance optimization
 Updated styling and themes - update 40
 Updated project documentation
+Refactored code for better maintainability - v10.8.3
