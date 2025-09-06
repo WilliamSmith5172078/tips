@@ -1817,3 +1817,4 @@ Updated styling and themes - 213
 Fixed typo in documentation - update 6
 Added detailed comments for clarity - 154
 Fixed typo in documentation - v5.0.8
+Updated version number - update 18
