@@ -1808,3 +1808,4 @@ Updated README with new instructions - build 980
 Added comprehensive test coverage
 Code cleanup and formatting - v5.9.7
 Refactored code for better maintainability - 125
+Added detailed comments for clarity - build 791
