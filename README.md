@@ -1815,3 +1815,4 @@ Updated README with new instructions - 656
 Improved performance optimization - build 312
 Updated styling and themes - 213
 Fixed typo in documentation - update 6
+Added detailed comments for clarity - 154
