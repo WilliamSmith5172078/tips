@@ -1772,3 +1772,4 @@ Fixed code formatting issues - 364
 Updated configuration settings - update 31
 Added input validation - update 50
 Fixed code formatting issues
+Updated README with new instructions - 819
