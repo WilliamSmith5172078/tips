@@ -1768,3 +1768,4 @@ Updated styling and themes - 823
 Improved user interface design
 Updated dependencies to latest versions - build 899
 Updated dependencies to latest versions
+Fixed code formatting issues - 364
