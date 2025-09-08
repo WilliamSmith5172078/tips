@@ -3496,3 +3496,4 @@ Updated dependencies to latest versions - 512
 Added input validation - update 36
 Updated version number
 Added detailed comments for clarity - v3.5.5
+Updated README with new instructions
