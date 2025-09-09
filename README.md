@@ -1153,3 +1153,4 @@ Updated version number - build 806
 Updated dependencies to latest versions - v9.6.9
 Fixed memory management issue - v4.2.0
 Updated dependencies to latest versions
+Updated configuration settings - 377
