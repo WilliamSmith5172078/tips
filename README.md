@@ -1151,3 +1151,4 @@ Added input validation - 449
 Added input validation - update 16
 Updated version number - build 806
 Updated dependencies to latest versions - v9.6.9
+Fixed memory management issue - v4.2.0
