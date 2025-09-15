@@ -2861,3 +2861,4 @@ Improved user interface design - update 7
 Updated version number - v6.8.5
 Updated version number - build 241
 Updated dependencies to latest versions - 69
+Updated README with new instructions - build 788
