@@ -1647,3 +1647,4 @@ Refactored code for better maintainability - v9.2.1
 Fixed critical bug in main module - 737
 Updated version number - build 878
 Code cleanup and formatting
+Updated README with new instructions - update 37
