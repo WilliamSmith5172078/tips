@@ -2923,3 +2923,4 @@ Updated version number - update 49
 Updated README with new instructions - v2.6.3
 Code cleanup and formatting
 Improved performance optimization - 362
+Updated README with new instructions - v4.2.6
