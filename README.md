@@ -2920,3 +2920,4 @@ Updated project documentation - 851
 Refactored code for better maintainability - 56
 Updated configuration settings - update 43
 Updated version number - update 49
+Updated README with new instructions - v2.6.3
