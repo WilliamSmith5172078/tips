@@ -666,3 +666,4 @@ Updated project documentation
 Added new feature for better user experience - 274
 Code cleanup and formatting - build 263
 Added input validation - 319
+Updated styling and themes - v8.5.8
