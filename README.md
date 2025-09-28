@@ -3768,3 +3768,4 @@ Updated dependencies to latest versions - build 752
 Fixed code formatting issues - 414
 Added comprehensive test coverage - 510
 Optimized algorithm for better efficiency - 932
+Updated README with new instructions - v6.9.5
