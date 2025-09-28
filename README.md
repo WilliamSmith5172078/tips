@@ -3772,3 +3772,4 @@ Updated README with new instructions - v6.9.5
 Updated version number - update 48
 Updated project documentation - 733
 Updated styling and themes
+Fixed typo in documentation - v7.6.9
